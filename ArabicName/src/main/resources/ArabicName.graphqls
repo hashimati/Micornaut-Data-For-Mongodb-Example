@@ -1,0 +1,15 @@
+type ArabicName{
+    id:String,
+    	name : String,
+	letter : String,
+	nativeArabic : String,
+	meaning : String
+}
+input ArabicNameInput{
+    id:String,
+    	name : String,
+	letter : String,
+	nativeArabic : String,
+	meaning : String
+}
+
